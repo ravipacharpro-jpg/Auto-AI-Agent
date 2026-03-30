@@ -1,1 +1,1 @@
-Write a script that generates the first 20 numbers of the Fibonacci sequence and prints them.
+DONE: Write a script that generates the first 20 numbers of the Fibonacci sequence and prints them.
