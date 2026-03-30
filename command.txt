@@ -1,1 +1,1 @@
-DONE: test github working
+create simple calculator html css js
